@@ -159,7 +159,7 @@ main{
         flex: 1;
         width: 100%;
     }
-
+/*g*/
     .card{
         flex-direction: row-reverse;
     }
